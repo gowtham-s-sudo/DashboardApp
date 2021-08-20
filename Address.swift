@@ -8,5 +8,5 @@
 import Foundation
 
 struct Address {
-   let a = "RM2MR746UHwgJWuPo3vjMiwgJkR9DFaZUD"// you wallet address goes here
+   let a = "sampleaddress123"// you wallet address goes here
 }
